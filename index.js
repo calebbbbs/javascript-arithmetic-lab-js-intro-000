@@ -21,6 +21,6 @@ function decrement(a){
   return a - 1
 }
 
-function makeInt(interger){
-  return parseInt('a', 10)
+function makeInt(string){
+  return parseInt('string', 10)
 }

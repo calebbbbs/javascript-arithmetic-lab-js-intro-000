@@ -1,1 +1,1 @@
-add (number, number) => number + number; 
+add (number, number);

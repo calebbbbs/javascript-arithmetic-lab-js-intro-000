@@ -21,6 +21,6 @@ function decrement(a){
   return a - 1
 }
 
-function makeInt(string){
-  return parseInt('a')
+function makeInt(a){
+  return a.toString() = a
 }

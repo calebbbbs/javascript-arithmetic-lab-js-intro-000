@@ -22,5 +22,5 @@ function decrement(a){
 }
 
 function makeInt(a){
-  return a.toString() = a
+  return parseInt(a.toString())
 }

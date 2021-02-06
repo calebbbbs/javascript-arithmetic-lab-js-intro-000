@@ -20,3 +20,7 @@ function increment(a){
 function decrement(a){
   return a - 1
 }
+
+function makeInt(a){
+  parseInt('a', 10)
+}

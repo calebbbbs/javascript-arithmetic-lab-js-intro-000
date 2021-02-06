@@ -24,3 +24,7 @@ function decrement(a){
 function makeInt(a){
   return parseInt(a.toString(), 10)
 }
+
+function preserveDecimal(a){
+  return parseFloat(a.toString());
+}
